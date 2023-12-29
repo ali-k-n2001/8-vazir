@@ -57,6 +57,3 @@ def solve_n_queens(n):
             print(board[i][j], end=" ")
         print()
     return True
-
-# تابع را فراخوانی می‌کنیم با n=8 برای حل مسئله 8 وزیر
-solve_n_queens(8)
